@@ -1,5 +1,5 @@
-# 💫 That's me 🙋🏾‍♂️:
-👋 Hi, I’m Md Ayaan Shaikh<br>👀 I’m interested in Full Stack web development and Machine Learning<br>🌱 I’m currently a intermediate web development learner<br>📫 You can reach me through my  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ayaan-skh/)) Profile or my  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayaan_9625) Handle <br>🧑🏼‍💻I am a student of Third Year Computer Science and Engineering pursuing B.Tech
+# That's me 🙋‍♂️:
+👋 Hi, I’m Md Ayaan Shaikh<br>👀 I’m interested in Full Stack web development and Machine Learning<br>🌱 I’m currently a intermediate web development learner and currently studying Machine Learning<br>📫 You can reach me through my  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ayaan-skh/)) Profile or my  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayaan_9625) Handle <br>🧑🏼‍💻I am a student of Third Year Computer Science and Engineering pursuing B.Tech
 
 
 ## 🌐 Socials:
