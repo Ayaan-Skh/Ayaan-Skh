@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAyaanShaikh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan-Skh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 ### 💬 Let's Connect
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ayaan-shaikh](https://www.linkedin.com/in/ayaan-skh/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ayaan-skh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:ayaanskh23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/Ayaan-Skh"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
@@ -68,7 +68,7 @@
 ---
 
 ### ✨ Fun Fact
-> “The best way to predict the future is to **create it** — one line of code at a time.”
+> “The best way to predict the future is to **create it** one line of code at a time.”
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
