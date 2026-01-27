@@ -51,9 +51,10 @@
 ### 🧩 Projects Highlight
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🚀 **ATS scorer and email generator using NLP** | Scores your resume and helps generate personalized emails | Python, sckit-learn |
+| 🚀 **DeepTrade – Reinforcement Learning Trading Agent ** | Built Deep Q-Network agent achieving 3.49% returns on test data, outperforming buy-and-hold by 16.5× and random baseline by 96% across 1,500+ trading days on Indian equity markets. | PyTorch, OpenAI Gym, Streamlit |
+| 💾 **Insurance Document Q&A System with RAG Architecture** | Built an end-to-end ML system using LLMs and semantic search to automate insurance claim decisions from
+natural language queries. |  Python, Next.js, ChromaD |
 | 🧠 **AI interview companion** | Helps to prepare for any interviews with Ai companion | TypeScript, Next.js |
-| 💾 **Unsupervised Anomaly Detection System** | Detect anomoly in financial transactions | Python, Scikit-learn, Flask |
 
 
 ---
@@ -63,6 +64,7 @@
   <a href="https://www.linkedin.com/in/ayaan-skh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:ayaanskh23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/Ayaan-Skh"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://x.com/Ayaan_skh"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
