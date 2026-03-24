@@ -51,7 +51,7 @@
 ### 🧩 Projects Highlight
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🚀 **DeepTrade – Reinforcement Learning Trading Agent ** | Built Deep Q-Network agent achieving 3.49% returns on test data, outperforming buy-and-hold by 16.5× and random baseline by 96% across 1,500+ trading days on Indian equity markets. | PyTorch, OpenAI Gym, Streamlit |
+| 🚀 **DeepTrade – Reinforcement Learning Trading Agent** | Built Deep Q-Network agent achieving 3.49% returns on test data, outperforming buy-and-hold by 16.5× and random baseline by 96% across 1,500+ trading days on Indian equity markets. | PyTorch, OpenAI Gym, Streamlit |
 | 💾 **Insurance Document Q&A System with RAG Architecture** | Built an end-to-end ML system using LLMs and semantic search to automate insurance claim decisions from natural language queries. |  Python, Next.js, ChromaD |
 | 🧠 **AI interview companion** | Helps to prepare for any interviews with Ai companion | TypeScript, Next.js |
 
